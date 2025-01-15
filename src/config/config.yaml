@@ -1,0 +1,3 @@
+FILE_USER_TRXN_PATH: "src\\data"
+MODEL_PATH: "src\\model\\gmm_model.pkl"
+OPENAI_API_KEY: 
